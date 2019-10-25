@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.pokemon {
+  display: block
+}
+
+header a {
+  text-decoration: none;
+}
 .App-logo {
   height: 40vmin;
 }
